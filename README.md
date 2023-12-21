@@ -1,6 +1,6 @@
 a stupid tool to convert csv file to excel file, because stupid Excel made by stupid Microsoft can't do the stupid thing rightly.
 
-```shell
+```
 ❯ poetry run python main.py --help
 usage: csvtoexcel [-h] [--delimiter DELIMITER] [--quote QUOTE] [--escape ESCAPE] [--null NULL] csvfile
 
