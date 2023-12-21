@@ -1,4 +1,4 @@
-a stupid tool to convert csv file to excel file, because stupid Excel software made by stupid Microsoft cant do the stupid thing rightly.
+a stupid tool to convert csv file to excel file, because stupid Excel made by stupid Microsoft can't do the stupid thing rightly.
 
 ```shell
 ❯ poetry run python main.py --help
